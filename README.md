@@ -1,5 +1,5 @@
 
-🚀 My Project Portfolio
+## 🚀 My Project Portfolio
 Welcome to my portfolio!
 This is a collection of projects I’ve worked on — some individually, some in collaboration.
 Here you’ll find descriptions, tech stacks, and links to explore the work in detail.
