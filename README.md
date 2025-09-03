@@ -27,6 +27,13 @@ Here you’ll find descriptions, tech stacks, and links to explore the work in d
 | **Real Time Deepfake Video Detection** | To detect deepfake in real time situations. Eg: Virtual Examination | Python, Flask, MySQL | [🔗 View Repo](https://github.com/ShikharGoel2805/Real-Time-Deepfake-Video-Detection.git) |
 | **RetroBooth** | A retro version of the classic Photo Booth with upgraded sticker package and additional features. | JavaScript, CSS, HTML | [🔗 View Repo](https://github.com/AnanyaGoyal07/RetroBooth-.git) |
 
+## 🤝 Individual Projects
+
+| Project Name | Description | Tech Stack | GitHub Link |
+| **Finance-Tracker** | A fun way to manage your spendings | React.js, Tailwind, Node.js | [🔗 View Repo](https://github.com/AnanyaGoyal07/Whack-a-Mole.git) |
+
+
+
 ## 📬 Contact
 If you’d like to collaborate, discuss a project, or just say hi, feel free to reach out!
 
