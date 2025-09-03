@@ -31,7 +31,7 @@ Here you’ll find descriptions, tech stacks, and links to explore the work in d
 
 | Project Name | Description | Tech Stack | GitHub Link |
 |--------------|-------------|------------|-------------|
-| **Finance-Tracker** | A fun way to manage your spendings | React.js, Tailwind, Node.js | [🔗 View Repo]([https://github.com/AnanyaGoyal07/Whack-a-Mole.git](https://github.com/AnanyaGoyal07/FinanceTracker-.git))|
+| **Finance-Tracker** | A fun way to manage your spendings | React.js, Tailwind, Node.js | [🔗 View Repo](https://github.com/AnanyaGoyal07/FinanceTracker-.git)|
 
 ## 📬 Contact
 If you’d like to collaborate, discuss a project, or just say hi, feel free to reach out!
